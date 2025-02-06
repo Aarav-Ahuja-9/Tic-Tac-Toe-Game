@@ -11,4 +11,4 @@ Welcome to the Tic-Tac-Toe game! This project is a modern take on the classic ga
 ## Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/Aarav-Ahuja-9/tic-tac-toe.git
+git clone https://github.com/Aarav-Ahuja-9/Tic-Tac-Toe-Game.git
