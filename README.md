@@ -10,9 +10,6 @@ A simple, interactive **Tic-Tac-Toe** web game built using **HTML**, **CSS**, an
 - 🔊 Sound effects on moves and win
 - 🧠 Automatic win detection and result display
 
-## 🖼️ Preview
-
-> ![Preview](Assets/images/preview.png)
 
 ## 🚀 Live Demo
  
